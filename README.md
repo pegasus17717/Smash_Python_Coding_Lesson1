@@ -1,5 +1,5 @@
 # Smash101_Python_Coding_Lesson1
 
-"Hello World" This is the loveletter that our coders wrote to other coders around the globe. Perhaps even in the extrestiarl planet. 
+“Hello, World!” — the timeless love letter from one coder to another, echoing across the globe… and maybe even reaching distant planets. 🌍👾
 
-This repository is dedicated for completely new learners to quickly grasp the knowledege and master the essentials of Python
+Welcome to Smash101 — a super duper beginner-friendly repository designed to help absolute newcomers quickly grasp the fundamentals of Python and build a strong coding foundation with confidence.
